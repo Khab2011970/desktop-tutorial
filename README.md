@@ -1,41 +1,50 @@
 Tran Vinh Kha B2011970 K46 CTU 
-# 🎬 Rạp Chiếu Phim "" 🍿
+<p align="center">
+  <img src="https://example.com/abcinema-logo.png" alt="ABcinema Logo" width="200" height="200">
+</p>
 
-Chào mừng bạn đến với rạp chiếu phim "StarCineplex" - nơi mang đến cho bạn những trải nghiệm điện ảnh đầy ấn tượng và độc đáo! 🌟
+# ABcinema - Hệ Thống Quản Lý Rạp Chiếu Phim
 
-![StarCineplex Logo]()
+ABcinema là dự án nhóm phát triển một hệ thống quản lý đầy đủ cho một rạp chiếu phim ảo. Dự án này sử dụng ngôn ngữ lập trình Python và các công cụ phát triển phổ biến khác.
 
-## 🎥 Giới Thiệu
+## 🎬 Mục Tiêu
 
-"StarCineplex" là một rạp chiếu phim hàng đầu với nhiều cơ sở trên khắp thành phố. Chúng tôi tự hào là điểm đến lý tưởng cho mọi người yêu thích điện ảnh và nghệ thuật trình chiếu.
+Mục tiêu của dự án là tạo ra một hệ thống quản lý hiệu quả cho rạp chiếu phim, bao gồm quản lý phim, suất chiếu, vé xem phim, quản lý tài khoản khách hàng và các tính năng khác liên quan.
 
-## 🎞️ Chương Trình Chiếu Phim
+## 🔧 Công Nghệ Sử Dụng
 
-Tại "StarCineplex", chúng tôi cung cấp một loạt các bộ phim đa dạng từ các thể loại khác nhau, bao gồm:
+- Ngôn ngữ lập trình: Python
+- Framework web: Django
+- Cơ sở dữ liệu: PostgreSQL
+- Giao diện người dùng: HTML/CSS, Bootstrap
 
-- Phim hành động
-- Phim hài
-- Phim kinh dị
-- Phim hoạt hình
-- Và nhiều thể loại khác!
+## 🎭 Thành Viên Nhóm
 
-## 🍿 Tiện Nghi
+- Trần Vĩnh Kha B2011970
+- Trần Thế Nghiêm B2011980
+- Phạm Nhật Trường B2011998
+- Nguyến Thị Như Quỳnh B2011988
 
-Không chỉ có những bộ phim xuất sắc, "StarCineplex" còn cung cấp các tiện ích và dịch vụ tiện lợi như:
+## 🎟️ Cách Sử Dụng
 
-- Phòng chiếu hiện đại với màn hình lớn và âm thanh chất lượng cao.
-- Ghế ngồi thoải mái và đẳng cấp.
-- Quầy bar và khu vực ăn uống với đa dạng thức uống và đồ ăn ngon miệng.
+1. Clone dự án từ repository:
 
-## 🎫 Đặt Vé
+2. Cài đặt các gói cần thiết:
 
-Để đặt vé xem phim tại "StarCineplex", bạn có thể truy cập trang web của chúng tôi hoặc đến trực tiếp các quầy vé tại rạp.
+3. Tiến hành cấu hình cơ sở dữ liệu trong file `settings.py`.
 
-## 📞 Liên Hệ
+4. Chạy lệnh migrate để tạo cơ sở dữ liệu:
 
-- Địa chỉ: 123 Đường ABC, Thành phố XYZ
-- Điện thoại: (+123) 456-7890
-- Email: info@starcineplex.com
+5. Khởi chạy máy chủ phát triển:
 
-Chúng tôi rất mong được đón tiếp và phục vụ bạn tại "StarCineplex"!
+6. Truy cập ứng dụng qua trình duyệt web tại `http://localhost:8000`.
+
+## 📈 Báo Cáo Tiến Độ
+
+Cập nhật tiến độ và trạng thái công việc qua các  trên GitHub.
+
+## 📝 Giấy Phép
+
+Dự án được phân phối dưới [Giấy phép MIT](LICENSE).
+
 
