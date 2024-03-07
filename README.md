@@ -5,7 +5,7 @@ Tran Vinh Kha B2011970 K46 CTU
 
 # ABcinema - Hệ Thống Quản Lý Rạp Chiếu Phim
 
-ABcinema là dự án nhóm phát triển một hệ thống quản lý đầy đủ cho một rạp chiếu phim ảo. Dự án này sử dụng ngôn ngữ lập trình Python và các công cụ phát triển phổ biến khác.
+ABcinema là dự án nhóm phát triển một hệ thống quản lý đầy đủ cho một rạp chiếu phim ảo. Dự án này sử dụng ngôn ngữ lập trình PHP và các công cụ phát triển phổ biến khác.
 
 ## 🎬 Mục Tiêu
 
