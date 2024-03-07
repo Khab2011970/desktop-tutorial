@@ -1,9 +1,9 @@
 Tran Vinh Kha B2011970 K46 CTU 
-# 🎬 Rạp Chiếu Phim "StarCineplex" 🍿
+# 🎬 Rạp Chiếu Phim "" 🍿
 
 Chào mừng bạn đến với rạp chiếu phim "StarCineplex" - nơi mang đến cho bạn những trải nghiệm điện ảnh đầy ấn tượng và độc đáo! 🌟
 
-![StarCineplex Logo](link_to_logo.png)
+![StarCineplex Logo]()
 
 ## 🎥 Giới Thiệu
 
