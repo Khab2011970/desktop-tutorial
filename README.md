@@ -1,6 +1,6 @@
 Tran Vinh Kha B2011970 K46 CTU 
 <p align="center">
-  <img src="https://"C:\Users\QK\Downloads\Nahida_ 19.jpg"" alt="ABcinema Logo" width="200" height="200">
+  <img src="https:///Users/QK/Downloads/Nahida_ 19.jpg" alt="ABcinema Logo" width="200" height="200">
 </p>
 
 # ABcinema - Hệ Thống Quản Lý Rạp Chiếu Phim
