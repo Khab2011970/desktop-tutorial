@@ -22,7 +22,7 @@ Mục tiêu của dự án là tạo ra một hệ thống quản lý hiệu qu�
 - Trần Vĩnh Kha B2011970
 - Trần Thế Nghiêm B2011980
 - Phạm Nhật Trường B2011998
-- Nguyến Thị Như Quỳnh B2011988
+- Phạm Lê Như Quỳnh B2011988
 
 ## 🎟️ Cách Sử Dụng
 
