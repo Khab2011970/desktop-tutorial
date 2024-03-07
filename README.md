@@ -1,6 +1,6 @@
 Tran Vinh Kha B2011970 K46 CTU 
 <p align="center">
-  <img src="https://example.com/abcinema-logo.png" alt="ABcinema Logo" width="200" height="200">
+  <img src="https://"C:\Users\QK\Downloads\Nahida_ 19.jpg"" alt="ABcinema Logo" width="200" height="200">
 </p>
 
 # ABcinema - Hệ Thống Quản Lý Rạp Chiếu Phim
@@ -13,9 +13,8 @@ Mục tiêu của dự án là tạo ra một hệ thống quản lý hiệu qu�
 
 ## 🔧 Công Nghệ Sử Dụng
 
-- Ngôn ngữ lập trình: Python
-- Framework web: Django
-- Cơ sở dữ liệu: PostgreSQL
+- Ngôn ngữ lập trình: PHP
+- Cơ sở dữ liệu: PHPMyAdmin
 - Giao diện người dùng: HTML/CSS, Bootstrap
 
 ## 🎭 Thành Viên Nhóm
